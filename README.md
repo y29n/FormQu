@@ -191,7 +191,7 @@ FormQu/
 
 ## 📌 Tipe Field yang Tersedia
 
-| Tipe | Keterangan |
+| Tipe | Keterangann |
 |---|---|
 | `text` | Input teks pendek (Short Text) |
 | `large_text` | Input teks panjang (Long Text / Textarea) |
